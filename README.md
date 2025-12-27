@@ -26,12 +26,4 @@ Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um ca
 
 ---
 
-## **📝 GitHub Stats**
-![euisaquevenancio's GitHub stats](https://github-readme-stats.vercel.app/api?username=euisaquevenancio&show_icons=true&hide_title=true&theme=transparent)
-<a href="https://github.com/euisaquevenancio/github-readme-stats">
-  <img height=165 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=euisaquevenancio&layout=compact&theme=transparent&langs_count=8&card_width=320" />
-</a>
-
----
-
 *"O que mais me fascina na programação é como um único problema pode ter inúmeras soluções e como uma simples mudança de perspectiva pode tornar tudo muito mais otimizado!"*
