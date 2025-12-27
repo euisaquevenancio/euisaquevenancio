@@ -27,9 +27,9 @@ Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um ca
 ---
 
 ## **📝 GitHub Stats**
-![IsaqueSV's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesv&show_icons=true&hide_title=true&theme=transparent)
+![euisaquevenancio's GitHub stats](https://github-readme-stats.vercel.app/api?username=euisaquevenancio&show_icons=true&hide_title=true&theme=transparent)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaquesv&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+  <img height=165 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=euisaquevenancio&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 
 ---
