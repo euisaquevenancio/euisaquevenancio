@@ -21,14 +21,14 @@ Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um ca
 
 ## **💬 Onde me encontrar**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-venancio/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/isaque.s.venancio/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/euisaquevenancio/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:isaque.s.venancio43@gmail.com)
 
 ---
 
 ## **📝 GitHub Stats**
 ![euisaquevenancio's GitHub stats](https://github-readme-stats.vercel.app/api?username=euisaquevenancio&show_icons=true&hide_title=true&theme=transparent)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/euisaquevenancio/github-readme-stats">
   <img height=165 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=euisaquevenancio&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 
