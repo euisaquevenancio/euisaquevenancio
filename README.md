@@ -1,13 +1,16 @@
 
 # Olá! Como vai? 🤝
 
-Meu nome é Isaque Silva Venancio, sou técnico em *Informática para Internet* pela *[ETEC de Itanhaém](https://www.etecitanhaem.com.br/)* e estou no último ano do curso de *Análise e Desenvolvimento de Sistemas* na *[FATEC de Praia Grande](https://fatecpg.edu.br/)*.
+Sou desenvolvedor web, com formação técnica em **Informática para Internet** e graduação em **Análise e Desenvolvimento de Sistemas**. Gosto de criar soluções web e atuar tanto no frontend quanto no backend, sempre buscando desenvolver projetos bem organizados e funcionais.
 
-Comecei a programar em 2022, quando tive meu primeiro contato com lógica de programação e desenvolvimento web. Desde então, venho me dedicando a explorar e aprofundar meus conhecimentos em áreas como banco de dados, *frontend* e *backend*.
+Tenho experiência com Java, JavaScript, HTML e CSS, além de trabalhar com bancos de dados e SQL. Utilizo Git e GitHub para versionar e organizar meus projetos. Até agora, meus principais trabalhos são sistemas e aplicações desenvolvidos para portfólio, onde aplico conceitos de programação, organização de código, boas práticas e também a criação e consumo de APIs.
 
-Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um carinho especial pelo *backend*. Tenho me aprofundado no desenvolvimento de sistemas com `HTML`, `CSS`, `JavaScript`, `Java`, `SQL`, `APIs` e na aplicação de Inteligência Artificial em meus projetos.
+Alguns desses projetos também envolvem a integração e o uso de soluções com inteligência artificial, o que tem sido essencial para ampliar meu aprendizado e aprofundar meu entendimento sobre as ferramentas e tecnologias.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://euisaquevenancio.github.io/portfolio/)
+---
+
+Para conhecer melhor meu trabalho e meus projetos, visite meu portfólio **[clicando aqui](https://euisaquevenancio.github.io/portfolio/)**.
+
 ---
 
 ## **🚀 Linguagens e tecnologias**  
@@ -23,7 +26,3 @@ Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um ca
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-venancio/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/euisaquevenancio/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:isaque.s.venancio43@gmail.com)
-
----
-
-*"O que mais me fascina na programação é como um único problema pode ter inúmeras soluções e como uma simples mudança de perspectiva pode tornar tudo muito mais otimizado!"*
