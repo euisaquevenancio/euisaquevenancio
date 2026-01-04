@@ -1,7 +1,7 @@
 
 # Olá! Como vai? 🤝
 
-Sou desenvolvedor web, com formação técnica em **Informática para Internet** e graduação em **Análise e Desenvolvimento de Sistemas**. Gosto de criar soluções web e atuar tanto no frontend quanto no backend, sempre buscando desenvolver projetos bem organizados e funcionais.
+Sou desenvolvedor web, com formação técnica em **`Informática para Internet`** e graduação em **`Análise e Desenvolvimento de Sistemas`**. Gosto de criar soluções web e atuar tanto no frontend quanto no backend, sempre buscando desenvolver projetos bem organizados e funcionais.
 
 Tenho experiência com Java, JavaScript, HTML e CSS, além de trabalhar com bancos de dados e SQL. Utilizo Git e GitHub para versionar e organizar meus projetos. Até agora, meus principais trabalhos são sistemas e aplicações desenvolvidos para portfólio, onde aplico conceitos de programação, organização de código, boas práticas e também a criação e consumo de APIs.
 
