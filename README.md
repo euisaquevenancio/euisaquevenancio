@@ -1,11 +1,11 @@
 
-# Olá! Como vai? 🤝
+# Olá! Como vai? ☕
 
-Sou desenvolvedor web, com formação técnica em **`Informática para Internet`** e graduação em **`Análise e Desenvolvimento de Sistemas`**. Gosto de criar soluções web e atuar tanto no frontend quanto no backend, sempre buscando desenvolver projetos bem organizados e funcionais.
+Sou desenvolvedor de sistemas, com formação técnica em **`Informática para Internet`** e graduação em **`Análise e Desenvolvimento de Sistemas`**. Gosto de criar soluções e sou capaz de atuar tanto no frontend quanto no backend, buscando desenvolver projetos bem organizados e funcionais.
 
-Tenho experiência com Java, JavaScript, HTML e CSS, além de trabalhar com bancos de dados e SQL. Utilizo Git e GitHub para versionar e organizar meus projetos. Até agora, meus principais trabalhos são sistemas e aplicações desenvolvidos para portfólio, onde aplico conceitos de programação, organização de código, boas práticas e também a criação e consumo de APIs.
+Tenho como principais conhecimentos **JavaScript**, **Node.js**, **Java**, **SQL** e **MySQL**, além de experiência com criação e consumo de **APIs**, **Git**, **GitHub** e ferramentas de **Inteligência Artificial**.
 
-Alguns desses projetos também envolvem a integração e o uso de soluções com inteligência artificial, o que tem sido essencial para ampliar meu aprendizado e aprofundar meu entendimento sobre as ferramentas e tecnologias.
+Também possuo conhecimentos em **HTML**, **CSS** e **Figma**, principalmente voltados ao frontend. Gosto de criar websites e soluções web, mas não me limito a esse tipo de desenvolvimento. Tenho interesse em diferentes áreas da tecnologia e estou sempre disposto a aprender e desenvolver o que for necessário para cada projeto.
 
 ---
 
@@ -14,13 +14,13 @@ Para conhecer melhor meu trabalho e meus projetos, visite meu portfólio **[clic
 ---
 
 ## **🚀 Linguagens e tecnologias**  
-[![Linguagens e tecnologias](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,sqlite)](https://skillicons.dev)  
+[![Linguagens e tecnologias](https://skillicons.dev/icons?i=javascript,nodejs,java,mysql,css,php,sqlite,bootstrap)](https://skillicons.dev)  
 
 ## **🛠️ Ferramentas e plataformas**  
-[![Ferramentas e plataformas](https://skillicons.dev/icons?i=github,git,vscode,figma,maven,idea)](https://skillicons.dev)  
+[![Ferramentas e plataformas](https://skillicons.dev/icons?i=vscode,github,git,figma)](https://skillicons.dev)  
 
 ## **📚 Atualmente estudando**  
-[![Atualmente estudando](https://skillicons.dev/icons?i=postgres,spring)](https://skillicons.dev)   
+[![Atualmente estudando](https://skillicons.dev/icons?i=javascript,nodejs,mysql)](https://skillicons.dev)   
 
 ## **💬 Onde me encontrar**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-venancio/)
